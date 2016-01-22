@@ -71,7 +71,11 @@ int main() {
         all.push_back(p.total());
     }
     cout << "==================================" << endl;
-    cout << accumulate(all.begin(), all.end(), 0) << endl;
+    if (!all.empty()) cout << all[0];
+    for (int i = 1; i < all.size(); i++) {
+        cout << " + " << all[i];
+    }
+    cout << " = " << accumulate(all.begin(), all.end(), 0) << endl;
     return 0;
 }
 
