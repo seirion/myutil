@@ -14,6 +14,9 @@ sudo easy_install pip
 pip install ipython
 ```
 
+### 맥 일반키보드에서 한/영키, 한자키, Ctrl 키 사용하기(키맵핑)
+http://jhrun.tistory.com/80
+
 ### 화면 캡쳐
 - 전체 : shift + command + 3
 - 영역 : shift + command + 4
