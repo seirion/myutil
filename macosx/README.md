@@ -14,6 +14,10 @@ sudo easy_install pip
 pip install ipython
 ```
 
+### iterm2 와 zsh
+https://www.iterm2.com/ <br>
+https://nolboo.github.io/blog/2015/08/21/oh-my-zsh/
+
 ### 맥 일반키보드에서 한/영키, 한자키, Ctrl 키 사용하기(키맵핑)
 http://jhrun.tistory.com/80
 
