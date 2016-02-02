@@ -27,3 +27,7 @@ http://liverex.net/2475
 - 영역 : shift + command + 4
 - 창 : shift + command + 4 + space
 
+### 맥 단축키 쉽게 기억하기
+http://macnews.tistory.com/564
+
+
