@@ -30,4 +30,10 @@ http://liverex.net/2475
 ### 맥 단축키 쉽게 기억하기
 http://macnews.tistory.com/564
 
-
+### .bash_profile 설정
+리눅스와는 달리 .bashrc 대신 .bash_profile 에 설정값을 써야 한다. <br>
+셀에서 한글이 안 나온다면 다음 줄을 추가한다.
+```
+export LANG="ko_KR.UTF-8"
+export LANGUAGE="C.UTF-8"
+```
