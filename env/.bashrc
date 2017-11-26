@@ -2,7 +2,6 @@
 alias gg='g++ -std=c++0x -O2'
 alias bb='cd /home/babo/build/'
 alias ls='ls -hF --color=auto --show-control-char'
-alias oj='ssh babo@oj.zetacode.com'
 
 export LANG="C.UTF-8"
 export LANGUAGE="C.UTF-8"
