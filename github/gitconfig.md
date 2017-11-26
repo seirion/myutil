@@ -5,6 +5,7 @@
 	st = status
 	ci = commit
 	br = branch
+	ch = cherry-pick
 [user]
 	name = neo.jang
 	email = neo.jang@phcnt.com
