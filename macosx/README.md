@@ -37,3 +37,14 @@ http://macnews.tistory.com/564
 export LANG="ko_KR.UTF-8"
 export LANGUAGE="C.UTF-8"
 ```
+
+
+### sierra 에서 스크롤 감도 문제
+
+참고 : http://brtech.tistory.com/37
+
+드라이버 다운로드 - http://www.usboverdrive.com/USBOverdrive/News.html
+
+![Alt text](http://img1.daumcdn.net/thumb/R960x0/?fname=http%3A%2F%2Fcfile29.uf.tistory.com%2Fimage%2F2402EE3D5833F90601D529)
+```
+```
