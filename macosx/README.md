@@ -18,6 +18,10 @@ pip install ipython
 https://www.iterm2.com/ <br>
 https://nolboo.github.io/blog/2015/08/21/oh-my-zsh/
 
+### 한영 전환 오류 해결
+https://purduecho.github.io/mac-key/
+![](https://purduecho.github.io/assets/images/blog/siri.png)
+
 ### 맥 일반키보드에서 한/영키, 한자키, Ctrl 키 사용하기(키맵핑)
 http://jhrun.tistory.com/80
 http://liverex.net/2475
