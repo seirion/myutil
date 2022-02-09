@@ -1,14 +1,28 @@
 ### contents of .gitconfig
 ```
 [alias]
-	co = checkout
-	st = status
-	ci = commit
-	br = branch
-	ch = cherry-pick
+    co = checkout
+    st = status
+    ci = commit
+    br = branch
+    ch = cherry-pick
 [user]
-	name = neo.jang
-	email = neo.jang@phcnt.com
+    name = babo
+    email = seirion@mensakorea.org
+[core]
+    excludesfile = /Users/babo/.gitignore_global
+    pager = less -FRX
+[difftool "sourcetree"]
+    cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+    path =
+[mergetool "sourcetree"]
+    cmd = /Applications/Sourcetree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+    trustExitCode = true
+[pull]
+    rebase = true
+    ff = only
+[push]
+    default = current
 ```
 
 ### gitflow
