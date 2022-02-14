@@ -27,6 +27,8 @@ alias res='cd /Users/babo/build/azar-android/app/src/main/res'
 
 export LANG="C.UTF-8"
 export LANGUAGE="C.UTF-8"
+# zsh 에서 한글
+export LC_ALL="ko_KR.UTF-8"
 
 if [ -z "$INPUTRC" -a ! -f "$HOME/.inputrc" ];then
     INPUTRC=/etc/inputrc
